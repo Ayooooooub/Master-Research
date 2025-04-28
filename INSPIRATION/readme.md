@@ -5,13 +5,13 @@ Muscle Memory and Embodiment in Video Games
 
 1. **Muscle Memory**: The ability to perform a task without conscious thought, developed through repetition. In gaming, it refers to how players automatically execute certain actions (like combo moves in fighting games or jumps in platformers) without having to consciously think through every step.
 
-2. **Embodied Cognition**: A theory in psychology suggesting that cognitive processes are deeply rooted in the body's interactions with the world. It argues that the mind is not only connected to the brain but also to the body’s physical state, movements, and sensory experiences.
+2. **Embodied Cognition**: the idea that our thoughts and mental processes are deeply intertwined with and influenced by our physical body and its interactions with the environment.
 
 3. **Flow State**: A mental state of complete immersion and focus in an activity, often characterized by a sense of timelessness and effortless action. In gaming, players enter a flow state when they're fully engaged in the game mechanics, particularly when mastering complex movements.
 
-4. **Automaticity**: The ability to perform actions with little to no conscious thought, developed through repeated practice. In video games, it refers to players' ability to perform complex sequences (e.g., button combinations in fighting games) without consciously thinking about every input.
+4. **Automaticity**: The ability to perform actions with little to no conscious thought, developed through repeated practice. In video games, it refers to players ability to perform complex sequences (button combinations in fighting games) without consciously thinking about every input.
 
-5. **Kinesthetic Learning**: Learning through physical activity and movement, emphasizing the importance of doing over passive observation. Video games, especially those requiring precise control (e.g., rhythm games), often function as kinesthetic learning environments.
+5. **Kinesthetic Learning**: Learning through physical activity and movement, emphasizing the importance of doing over passive observation. Video games, especially those requiring precise control (rhythm games), often function as kinesthetic learning environments.
 
 6. **Repetitive Learning**: A process through which skills are honed by repeating actions until they become second nature. Games often use this technique to teach players complex mechanics incrementally.
 
@@ -30,10 +30,10 @@ Muscle Memory and Embodiment in Video Games
    - Exploration of how games are designed to gradually increase in difficulty, promoting mastery of physical movements. This ties in with how players develop muscle memory over time.
 
 3. **Cognitive Load vs. Physical Load**:
-   - A discussion on how games balance the mental load (e.g., strategy, problem-solving) and physical load (e.g., button pressing, timing) to facilitate smooth, flowing gameplay.
+   - A discussion on how games balance the mental load (strategy, problem-solving) and physical load (button pressing, timing) to facilitate smooth, flowing gameplay.
 
 4. **Physicality in VR and Motion-Control Games**:
-   - How immersive technologies (e.g., VR, motion controllers) change the relationship between the player and the game, emphasizing more direct physical engagement (e.g., Beat Saber, Half-Life: Alyx).
+   - How immersive technologies (VR, motion controllers) change the relationship between the player and the game, emphasizing more direct physical engagement (Beat Saber, Half-Life: Alyx).
 
 5. **Comparing Video Games to Physical Sports and Music**:
    - Drawing parallels between muscle memory in gaming and how athletes or musicians develop physical skills through practice, focusing on repetition, timing, and body control.
