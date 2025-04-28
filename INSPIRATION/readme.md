@@ -30,10 +30,10 @@ Muscle Memory and Embodiment in Video Games
    - Exploration of how games are designed to gradually increase in difficulty, promoting mastery of physical movements. This ties in with how players develop muscle memory over time.
 
 3. **Cognitive Load vs. Physical Load**:
-   - A discussion on how games balance the mental load (strategy, problem-solving) and physical load (button pressing, timing) to facilitate smooth, flowing gameplay.
+   - A discussion on how games balance the mental load (strategy, problem-solving, side content) and physical load (button pressing, timing) to facilitate smooth, flowing gameplay.
 
 4. **Physicality in VR and Motion-Control Games**:
-   - How immersive technologies (VR, motion controllers) change the relationship between the player and the game, emphasizing more direct physical engagement (Beat Saber, Half-Life: Alyx).
+   - How immersive technologies (VR, motion controllers) change the relationship between the player and the game, emphasizing more direct physical engagement.
 
 5. **Comparing Video Games to Physical Sports and Music**:
    - Drawing parallels between muscle memory in gaming and how athletes or musicians develop physical skills through practice, focusing on repetition, timing, and body control.
