@@ -128,6 +128,6 @@ https://www.jstor.org/stable/1576564?searchText=Muscle%20Memory%20and%20Embodime
 
 
 
-1. if stqrting from scratch find a research question worth investigating
+1. if starting from scratch find a research question worth investigating
 2. find a specific enough topic 
 3. i did not have enough time to write the rest
