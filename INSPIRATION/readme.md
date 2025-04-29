@@ -1,6 +1,11 @@
 # Master Thesis Subject
 Muscle Memory and Embodiment in Video Games
 
+## First Intents:
+The subject seems interesting to me as a player who spent a few years in the competitive scene of a specific game but also plays casually with a friend online, talking and executing actions automatically. I'm fascinated by how practicing the repetition of a movement — and how long after stopping practice you can still remember or perform it without thinking. For now, I wouldn't be able to say what I want to deduce as an end result, but I could start interviewing players to get some insights on their routine or how they feel they remember controls in a set video game after some time.
+
+
+
 ## Terms & Definitions:
 
 1. **Muscle Memory**: The ability to perform a task without conscious thought, developed through repetition. In gaming, it refers to how players automatically execute certain actions (like combo moves in fighting games or jumps in platformers) without having to consciously think through every step.
@@ -18,6 +23,8 @@ Muscle Memory and Embodiment in Video Games
 7. **Motor Learning**: The study of how people acquire and refine movement skills. This concept is relevant to understanding how players learn to control their in-game avatar through physical actions, such as aiming, jumping, or pressing a sequence of buttons.
 
 8. **Peripheral Action**: Refers to actions that are performed on the edge of a player’s awareness. In video games, this is when a player’s movements become so practiced that they’re done almost instinctively or automatically, such as performing a combo without thinking about the specific inputs.
+
+9. **Prehabilitative exercise**: often shortened to "prehab," refers to a proactive approach of optimizing physical and mental health before a surgery or major medical procedure. It's the opposite of rehabilitation, which focuses on recovery after an injury or surgery. Prehabilitation aims to prepare the body for the demands of the procedure and improve outcomes, including faster recovery.
 
 
 
