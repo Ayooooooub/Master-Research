@@ -62,7 +62,6 @@ Do players remember movements better when using the same controller or being in 
 
 
 
-
 ## Visuals
 
 ![Screenshot](./images/ab8db1f238ef97524444e867acafd7b373152a13.png)
@@ -76,3 +75,13 @@ Do players remember movements better when using the same controller or being in 
 1. if starting from scratch find a research question worth investigating
 2. find a specific enough topic 
 3. i did not have enough time to write the rest
+
+
+## Few notes on the 1 on 1 with teachers
+
+* Not go to much into a scientific subject and think more dsign maybe
+* Might have to focus more probbly on the performance aspects of muscle memory in video games, might need to concentrate on the competetive scene of a specific game or genre
+* Difine the context (domestic, e-sport...)
+* Methodology wise could look for online forums like reddit for dicution based on performance in e-sport and all
+* Articles online and videos on youtube/twitch on how to improve skills
+* Also compiling tools that I can find online made to improve reflexes and muscle memory
