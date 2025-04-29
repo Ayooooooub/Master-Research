@@ -4,6 +4,8 @@ Muscle Memory and Embodiment in Video Games
 ## First Intents:
 The subject seems interesting to me as a player who spent a few years in the competitive scene of a specific game but also plays casually with a friend online, talking and executing actions automatically. I'm fascinated by how practicing the repetition of a movement — and how long after stopping practice you can still remember or perform it without thinking. For now, I wouldn't be able to say what I want to deduce as an end result, but I could start interviewing players to get some insights on their routine or how they feel they remember controls in a set video game after some time.
 
+Do players remember movements better when using the same controller or being in the same environment? Another area that could be worth exploring is how this embodied knowledge is impacted by more or less long breaks, injuries, or switching between games. Does playing multiple games at once dilute the precision of muscle memory, or does it strengthen cognitive flexibility?
+
 
 
 ## Terms & Definitions:
