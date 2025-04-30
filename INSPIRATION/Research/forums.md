@@ -31,4 +31,3 @@ You can also consider this "i need informations" part as a part of the practice 
 4. * It just takes time and practice. Even after 100h in the game I still felt like a total beginner tbh. I didn't learn how to properly short hop without 2 jump buttons for ages. The trick that ended up working for me tho was to think about releasing the jump button as fast as possible and not pressing it as fast as possible.
 
 5. * Practice more until you can't get it wrong
-
