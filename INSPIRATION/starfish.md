@@ -2,6 +2,7 @@
 - Asteroidea : other term for tarfish in latin means star.
 - Macrobenthos : refers to the organisms living on or in the bottom sediments of a water body that are large enough to be visible to the naked eye, typically exceeding 1 mm in size.
 - Meiobenthos : those animals retained by a 0.1–1.0-mm-mesh sieve.
+- Radial symmetry : symmetry that is radial
 - Echinoderm : any animal of the phylum Echinodermata, which includes starfish, brittle stars, sea urchins, sand dollars and sea cucumbers, as well as the sessile sea lilies or "stone lilies".
 - Mechanoreception : the sensory process that enables an organism to detect and respond to mechanical stimuli, such as touch, pressure, vibration, and sound.
 - Chemoreception : the physiological process by which organisms detect and respond to chemical stimuli in their environment.
