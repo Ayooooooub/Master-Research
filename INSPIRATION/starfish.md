@@ -40,6 +40,40 @@ https://arxiv.org/abs/1611.01173?utm.com
 
 - Starfish Reproduction & Autonomy of Limbs https://study.com/learn/lesson/starfish-reproduction-methods-facts.html#:~:text=Aggregations%20in%20Starfish-,Starfish%20reproduce%20sexually%20by%20spawning.,forming%20groups%20called%20spawning%20aggregations.
 
+## Books about sea star (marine biology)
+- *Starfish: Biology and Ecology of the Asteroidea* by John M. Lawrence**
+
+This comprehensive volume offers an in-depth look at the biology and ecology of starfish, covering topics such as reproduction, development, and ecological roles. It serves as an excellent reference for understanding the integrative and comparative aspects of starfish biology.([Barnes & Noble][1])
+
+- *Starfishes of the Atlantic* by Ailsa M. Clark and Maureen E. Downey**
+
+A classic in the field, this book provides detailed descriptions and illustrations of starfish species found in the Atlantic Ocean. It's particularly useful for species identification and understanding the diversity within this group.
+
+- *Sea Stars of British Columbia, Southeast Alaska, and Puget Sound* by Philip Lambert**
+
+Focusing on the northwestern coast of North America, this handbook describes 43 species and subspecies of sea stars. It's an excellent resource for regional studies and offers insights into the diverse habitats these creatures occupy.([shop.royalbcmuseum.bc.ca][2])
+
+- *A Field Guide to Sea Stars and Other Echinoderms of Galapagos* by Cleveland P. Hickman Jr.**
+
+This compact field guide is ideal for those interested in the echinoderms of the Galapagos Islands. It includes detailed information on various species, making it a handy reference for fieldwork and ecological studies.([AbeBooks][3])
+
+- *Under the Sea-Wind* by Rachel Carson**
+
+While not exclusively about sea stars, this poetic work by renowned marine biologist Rachel Carson offers vivid descriptions of marine life, including starfish. It provides a broader context of the marine ecosystem and the interconnectedness of its inhabitants.([metrofieldguide.com][4])
+
+- *The Edge of the Sea* by Rachel Carson**
+
+Another masterpiece by Carson, this book explores the rich and diverse life along the Atlantic seashore. It delves into the habitats of various marine organisms, offering insights that can enhance your understanding of sea stars within their ecosystems.
+
+- *Seashore Life of the Northern Pacific Coast* by Eugene N. Kozloff**
+
+This comprehensive guide covers a wide range of marine life found along the northern Pacific coast, including sea stars. It's a valuable resource for understanding the ecological relationships and behaviors of these organisms in their natural habitats.([shop.royalbcmuseum.bc.ca][2])
+
+- *Invertebrates* by Richard C. Brusca and Gary J. Brusca**
+
+A foundational textbook in invertebrate zoology, this book provides detailed information on the anatomy, physiology, and ecology of invertebrates, including echinoderms like sea stars. It's suitable for those seeking a deeper scientific understanding of these creatures.
+
+
 ## Youtube videos
 - Odd Animal Specimens. (2023, August 11). Everything you didn’t know about Starfish [Video]. YouTube. https://www.youtube.com/watch?v=Slf8KBc35H0
 
