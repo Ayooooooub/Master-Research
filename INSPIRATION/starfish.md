@@ -13,6 +13,7 @@
 - Starfish larvae : tiny, planktonic organisms that hatch from eggs and spend a period drifting in the ocean before transforming into adult starfish.
 - Sessile marine invertebrates : animals without backbones that are permanently attached to a substrate, like rocks or reefs, in the marine environment.
 - Ossicles : internal skeleton made of hard plates called ossicles, which are composed of calcium carbonate.
+- Fissiparity : form of asexual reproduction or cloning where an organism splits into fragments, and each fragment develops into a separate, mature individual
 
 
 
